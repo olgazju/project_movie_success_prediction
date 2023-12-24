@@ -162,4 +162,4 @@ cython_debug/
 .DS_Store
 .python-version
 
-notebooks/catboost_info/**
+ml_camp_version/notebooks/catboost_info/**
